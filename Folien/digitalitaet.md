@@ -104,22 +104,127 @@ Glossar
 ************************************************
 
 
-## Was ist DigMus?
+## Was ist DH/DigMus?
 
-- Diamant I (20 Min)
-	- Einstieg: Kartenabfrage: "DigMus/DH ist für mich..." | "Zu DigMus/DH gehört..." | "Digitalität macht mich..."
-	- Input: Definition und Dimensionen der DigMus (hier auch Lehrplan der VL vorstellen)
-	- Resumée/Wdh.: "Was hat mich überrascht?" | "Was hat mir gefehlt?"
+                {{0-1}}
+************************************************
+<!-- style="width: 30%" -->
+!["QR-Particify-44488438"](../Bilder/QR-Particify-44488438.png "[https://particify.esalsa.de/p/44488438](https://particify.esalsa.de/p/44488438)")
+
+************************************************
+
+                {{1-2}}
+************************************************
+
+Vorlesungsplan
+---
+<!-- data-type="none" -->
+| #   | Datum    | Thema                                  |
+| --- | -------- | -------------------------------------- |
+| 1   | 14.04.   | Was ist Digitalität?                   |
+| 2   | 21.04.   | Formate                                |
+| 3   | 28.04.   | Digitales Arbeiten                     |
+| *4* | *05.05.* | *entfällt*                             |
+| 5   | 12.05.   | Textcodierung                          |
+| 6   | 19.05.   | Musikcodierung                         |
+| 7   | 26.05.   | Normdaten und Fach-Datenbanken         |
+| 8   | 02.06.   | Ontologien                             |
+| 9   | 09.06.   | Digitale Editionen                     |
+| 10  | 16.06.   | Online-Portale                         |
+| 11  | 23.06.   | Künstliche Intelligenz                 |
+| 12  | 30.06.   | Netzwerkforschung                      |
+| 13  | 07.07.   | Ausblick                               |
+
+************************************************
+
+                {{2-3}}
+************************************************
+Selbstkontrolle
+---
+- "Was hat mich (nicht) überrascht?"
+- "Was hat mir gefehlt?"
+************************************************
 
 ## Analog vs. Digital
-- Diamant II – Analog, Digital (15 Min.)
-	- Hinleitung zum Thema
-	- Input: Definitionen (auch elektronisch), Beispiele, Abgrenzung
-	- Wdh.: Was ist Analog? Was ist Digital? Was meinen wir, wenn wir "digital" sagen?
-		- Murmelgruppe (1-2 Antworten abfragen)
-, 2 Minuten
+
+> Der Begriff ›digital‹ ist zentral für alles, was mit Computern zusammenhängt, so zentral, dass er im Namen ›Digital Humanities‹ als Repräsentant steht für den Bereich des Computers und der Informatik als zugehöriger Wissenschaft.
+>
+> – Jannidis/Kohle/Rehbein: _Digital Humanities. Eine Einführung_, Stuttgart 2017, S. 59.
+
+---
+
+analog
+---
+- Etymologie:
+  
+  - análogos (ἀνάλογος, griech.): "dem lógos entsprechend, verhältnismäßig, entsprechend, angemessen"
+  - anà lógon (ἀνὰ λόγον, griech.): "‘"dem richtigen Verhältnis entsprechend"
+
+- Wortbdeutung ([DWDS](https://www.dwds.de/wb/analog#1))
+  
+  1. (gehoben) entsprechend, gleichartig, sinngemäß übertragbar
+  3. real, wirklich (vorhanden, stattfindend) [bspw. analoge Welt, analoges Leben]
+  4. auf herkömmlichen technischen Verfahren beruhend [bspw. analoge Geräte, analoge Verfahren, aaloge Fotografie]
+
+
+- Idee des Abbildens
+- Ähnlichkeitsbezug
+
+---
+
+digital
+---
+>  digital Adj. "in Stufen erfolgend, in Ziffern darstellend", Übernahme (Mitte 20. Jh.) von gleichbed. engl. digital; zu engl. digit "(zum Zählen benutzter) Finger, Ziffer (unter 10)". Zugrunde liegen lat. digitālis "zum Finger gehörig" und lat. digitus "Finger". Zuvor begegnet das Adj. digital in direkter Entlehnung aus dem Lat. in die dt. medizin. Fachsprache im Sinne von "die Finger (oder Zehen) betreffend, mit dem Finger".
+>
+> – DWDS, https://www.dwds.de/wb/digital#etymwb-1 \[13.04.2026\]
+
+- Zeigen, im Sinne von Anzeigen
+
+---
+
+elektronisch
+---
+- Allgemeiner Sprachgebrauch: elektronisch = digital
+- "digital" ist damit ein unscharfer Begriff
+- analog vs. digital || mechanisch vs. elektronisch
+
+**Fazit:** Große Bedeutungsdimension, muss ausdifferenziert werden.
+
+> Meiner Definition nach sind Editionen aber auch Forschungsdaten erst dann als digital zu bezeichnen, wenn diese mit computergestützten Methoden der Digital Humanities (d. h. durch (teil-)automatisierte Verfahren) weiterverarbeitet werden können. Dies ist wichtig, da damit reine Digitalisate (i. e. Bilder von Quellen) ausgeschlossen werden, sofern diese nicht auf irgendeine Weise angereichert sind. Auch wenn es mittlerweile beeindruckende Verfahren zur automatischen Text- (OCR) und Musikerkennung (OMR) auf Bildern gibt, so ist ein Digitalisat zunächst nicht mehr als eine elektronische Repräsentation eines physischen Objekts und für eine wissenschaftliche computergestützte inhaltliche Analyse kaum geeignet.
+>
+> – Ried: "halb und halb" – Hybride Edition als Kompromiss?, Berlin 2024, S. 171f.
+
+Stufen der Digitalität
+---
+
+``````````````````````````````````````````````````
++----------------------------------+     ^ maximum 
+| Edition / codierte Transkription |     |
++----------------------------------+     |
+                |                        |
+    +---------------------------+        |
+    | Transkription (annotiert) |        |
+    +---------------------------+        |
+                |                        |
+        +---------------+                |
+        | Transkription |                |
+        +---------------+                |
+                |                        |
+   +-------------------------+           |
+   | Digitalisat (annotiert) |           |
+   +-------------------------+           |
+                |                        |
+         +-------------+                 |
+         | Digitalisat |                 |
+         +-------------+                 | basis
+``````````````````````````````````````````````````
 
 ## Hybrid
+
+>  TEXT
+> 
+> – Sahle: _Digitale Editionsformen_, Bd. 2. _Befunde, Theorie und Methodik_, Norderstedt 2013, S. 
+
 - Diamant III – Hybrid (15 Min.)
 	- Hinleitung: Mischung
 	- Input: Hybrid als Konzept
@@ -129,6 +234,10 @@ Glossar
 - Diamant IV – Theorien digitaler Medien (10 Min.,	optional)
 	- Digitalisierung (Mediengeschichte), Digitalisierung und Gesellschaft, Digitale Quellenkritik
 	- Nassehi, Muster
+
+> Mit Figuren des Umbruchs wie etwa ‚analog/digital‘, ‚kontinuierlich/diskret‘, ‚materiell/immateriell‘ kommen in Theorien oft auch vorentscheidende Ordnungs- und Selektionsprinzipien zum Ausdruck, wie spezifische Gegenstandsbereiche der digitalen Kultur überhaupt angemessen zu fassen sind. Mit ihren Trennungen und Gegenüberstellungen begründen Theoriediskurse digitaler Medien ihre dichotome Methode, die auf Einteilung in jeweils zwei Teile beruht. Indem Leitbegriffe in den Debatten die Eigenschaft erlangen, Vorurteile zu schaffen und auf das Erkennen und Handeln Einfluss nehmen, kann ihnen der Status von Ideen zugeschrieben werden. In dieser Hinsicht stellen theoretisch gerahmte Leitdifferenzen und Schlüsselbegriffe wirkmächtige Orientierungsgrößen dar, mit denen Medientheorien als Teil kultureller Entwicklung integriert oder als Auftakt eines generellen Paradigmenwechsels verstanden werden können.
+>
+> – Ramón Reichert: _Theorien digitaler Medien_, in: _Digital Humanities_, hg. v. Jannidis et al., Stuttgart 2017, S. 19–34, hier S. 19.
 
 ## Resümee
 - "Was habt ihr für Fragen?"
