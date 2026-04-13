@@ -16,7 +16,7 @@ Die Studierenden kennen unterschiedliche Speicherformate und können zwischen de
 - Bilddateien (binär-Dateien)
 - strukturierte Daten XML
 - Zeichencodierung (UTF-8)
-- was sind diskrete Daten?
+- was sind diskrete Daten? (Vgl. Nassehi: Muster, S. 72)
 - MIDI
 - Beyond MIDI
 ## Inhalte priorisiert
