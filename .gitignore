@@ -5,15 +5,12 @@
 
 # to only exclude plugin configuration. Might be useful to prevent some plugin from exposing sensitive data
 
-.obsidian/plugins
+.obsidian/plugins/github-copilot
+.obsidian/plugins/obsidian-git
 
 # OR only to exclude workspace cache
 
 .obsidian/workspace.json
-
-#include templates
-#!.obsidian/templates.json
-#!.obsidian/daily-notes.json
 
 # Add below lines to exclude OS settings and caches
 
@@ -21,3 +18,4 @@
 .DS\_Store
 pdfs/*.pdf
 vl-digmus-einfuehrung.code-workspace
+.obsidian/plugins/liascript-renderer/node_modules
