@@ -8,7 +8,7 @@ tags:
 ---
 # Lernziele
 Die Studierenden kennen unterschiedliche Speicherformate und können zwischen den wichtigsten Typen unterscheiden.
-# Lerninhalte
+
 ## Zu behandelnde Themen (Ideen)
 - proprietäre und nicht proprietäre Formate
 - Tabellen
@@ -19,7 +19,9 @@ Die Studierenden kennen unterschiedliche Speicherformate und können zwischen de
 - was sind diskrete Daten? (Vgl. Nassehi: Muster, S. 72)
 - MIDI
 - Beyond MIDI
+
 ## Inhalte priorisiert
+
 ### Pflichtinhalte 10 Minuten (muss)
 - (non-)proprietäre Formate
 - Zeichencodierung (ASCII, UTF-8, Bit, Byte)
@@ -30,6 +32,7 @@ Die Studierenden kennen unterschiedliche Speicherformate und können zwischen de
 	- Leerzeichen und Umbrüche
 	- Binärdatei (keine Textdatei, enthält Bitmuster z.B. Bilder oder Computer Programme)
 - XML-Codierung (Struktur, Aufbau)
+
 ### Vertiefung 20 Minuten (soll)
 - Textformate (txt, rtf https://de.wikipedia.org/wiki/Rich_Text_Format)
 - Tabellenformate (xsl, csv, tsv)
@@ -37,6 +40,7 @@ Die Studierenden kennen unterschiedliche Speicherformate und können zwischen de
 	- Vektorgrafiken
 - PDF, Videos
 - Auszeichnungssprachen (md, LaTeX, XML, HTML)
+
 ### Wahl-Inhalte 45 Minuten (kann)
 - Was kann man mit XML machen?
 	- XML-Struktur modellieren (Regenbogen, Name)
@@ -69,9 +73,11 @@ Die Studierenden kennen unterschiedliche Speicherformate und können zwischen de
 	- MIME-Type: https://de.wikipedia.org/wiki/Internet_Media_Type
 - Diamant IV: Was ist MIDI? (optional)
 	- https://www.amazona.de/workshop-das-midi-datenformat-einfach-erklaert/
+
 ## Methodische Planung
 - Einstieg als einfache Abfrage
 - Vertiefung und Wiederholung: Puzzle
 - Diamant III: Murmelgruppe: "Was ist mir völlig unklar?"
+
 ## Medien
 - [[Zeichencodierung]]
