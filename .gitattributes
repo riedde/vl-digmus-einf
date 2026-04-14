@@ -1,13 +1,13 @@
 # Verzeichnisse beim Merge ignorieren
-.obsidian/** merge= filterPub
-pdfs/** merge= filterPub
-Skripte/** merge= filterPub
-Stoff/** merge= filterPub
-Vorlagen/** merge= filterPub
+.obsidian/** merge=filterPub
+pdfs/** merge=filterPub
+Skripte/** merge=filterPub
+Stoff/** merge=filterPub
+Vorlagen/** merge=filterPub
 
 # Dateitypen beim Merge ignorieren
-*.pdf merge= filterPub
-*.code-workspace merge= filterPub
+*.pdf merge=filterPub
+*.code-workspace merge=filterPub
 
 # Explizit erlaubte Dateien (überschreiben obige Regeln)
 README.md -merge
