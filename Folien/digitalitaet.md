@@ -334,10 +334,7 @@ II. Hybrid am Beispiel von Editionen
 ************************************************
 
 
-## Theorien
-- Diamant IV – Theorien digitaler Medien (10 Min.,	optional)
-	- Digitalisierung (Mediengeschichte), Digitalisierung und Gesellschaft, Digitale Quellenkritik
-	- Nassehi, Muster
+## Theoriebildung
 
 > Mit Figuren des Umbruchs wie etwa ‚analog/digital‘, ‚kontinuierlich/diskret‘, ‚materiell/immateriell‘ kommen in Theorien oft auch vorentscheidende Ordnungs- und Selektionsprinzipien zum Ausdruck, wie spezifische Gegenstandsbereiche der digitalen Kultur überhaupt angemessen zu fassen sind. Mit ihren Trennungen und Gegenüberstellungen begründen Theoriediskurse digitaler Medien ihre dichotome Methode, die auf Einteilung in jeweils zwei Teile beruht. Indem Leitbegriffe in den Debatten die Eigenschaft erlangen, Vorurteile zu schaffen und auf das Erkennen und Handeln Einfluss nehmen, kann ihnen der Status von Ideen zugeschrieben werden. In dieser Hinsicht stellen theoretisch gerahmte Leitdifferenzen und Schlüsselbegriffe wirkmächtige Orientierungsgrößen dar, mit denen Medientheorien als Teil kultureller Entwicklung integriert oder als Auftakt eines generellen Paradigmenwechsels verstanden werden können.
 >
