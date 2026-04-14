@@ -1,0 +1,15 @@
+# Verzeichnisse beim Merge ignorieren
+.obsidian/** merge=filter4Pub
+pdfs/** merge=filter4Pub
+Skripte/** merge=filter4Pub
+Stoff/** merge=filter4Pub
+Vorlagen/** merge=filter4Pub
+
+# Dateitypen beim Merge ignorieren
+*.pdf merge=filter4Pub
+*.code-workspace merge=filter4Pub
+
+# Explizit erlaubte Dateien (überschreiben obige Regeln)
+README.md -merge
+liascript-style.css -merge
+liascript-config.md -merge
