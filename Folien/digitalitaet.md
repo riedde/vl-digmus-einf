@@ -168,7 +168,7 @@ analog
   1. (gehoben) entsprechend, gleichartig, sinngemäß übertragbar
   2. (Physik, Informatik, Technik) einen Wert durch eine physikalische Größe wiedergebend; sich kontinuierlich verändernd, stufenlos verlaufend (als technisches Verfahren)
   3. real, wirklich (vorhanden, stattfindend) [bspw. analoge Welt, analoges Leben]
-  4. auf herkömmlichen technischen Verfahren beruhend [bspw. analoge Geräte, analoge Verfahren, aaloge Fotografie]
+  4. auf herkömmlichen technischen Verfahren beruhend [bspw. analoge Geräte, analoge Verfahren, analoge Fotografie]
 
 
 - Idee des Abbildens
@@ -360,5 +360,3 @@ II. Hybrid am Beispiel von Editionen
   - [Band 1](https://kups.ub.uni-koeln.de/5351/), *Das typografische Erbe* (=SIDE, Bd. 7)
   - [Band 2](https://kups.ub.uni-koeln.de/5352/), *Befunde, Theorie und Methodik* (=SIDE, Bd. 8)
   - [Band 3](https://kups.ub.uni-koeln.de/5353/), *Textbegriffe und Recodierung* (=SIDE, Bd. 9)
-
-
