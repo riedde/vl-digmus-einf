@@ -59,7 +59,7 @@ Wichtig(st)e Einheit ist das **Byte**, 1 Byte = 8 Bit. Mit einem Byte kann eine 
 | 9  | 1001 |
 | 10 | 1010 |
 
-Neben dem Binärsytem gibt es zahlreiche weitere Zahlensysteme. Ein bekanntes ist das Hexadecimalsystem. (Zur Berechnung siehe Jannidis et al., S. 61)
+Neben dem Binärsytem gibt es zahlreiche weitere Zahlensysteme. Ein bekanntes ist das [Hexadecimalsystem](https://www.w3schools.com/programming/prog_hexadecimal_numbers.php). (Zur Berechnung siehe Jannidis et al., S. 61)
 
 > Der Vorteil ist, dass Binärzahlen, die technisch ›Spannung ein‹ (1) bzw. ›Spannung aus‹ (0) bedeuten können, beliebige Inhalte, wie Bilder oder Töne, repräsentieren können, die gespeichert und verarbeitet werden. Die Zweiwertigkeit liegt auch in Booleschen Variablen vor, die ebenfalls nur zwei Werte annehmen (wahr/falsch) und mithilfe der Booleschen Algebra verarbeitet werden können.
 >
@@ -127,7 +127,7 @@ So funktioniert's: Jedes Zeiche hat einen **Codepoint** (Zeichencode)
 | :--------- | :--------- | :--------- |
 | [0041](https://www.compart.com/de/unicode/U+0041) | A | Lateinischer Großbuchstabe A |
 | [00DF](https://www.compart.com/de/unicode/U+00DF) | ß | Lateinischer Kleinbuchstabe Scharf-S |
-| [00DF](https://www.compart.com/de/unicode/U+1E9E) | ẞ | Lateinischer Großbuchstabe Scharf-S |
+| [1E9E](https://www.compart.com/de/unicode/U+1E9E) | ẞ | Lateinischer Großbuchstabe Scharf-S |
 | [FB00](https://www.compart.com/de/unicode/U+FB00) | ﬀ | Lateinische kleine Ligatur Ff   |
 
  **Problem:** höherer Speicherbedarf, da ein Zeichen nun 4 Byte statt 1 Byte Speicherplatzbenötigt.
@@ -145,8 +145,8 @@ So funktioniert's: Jedes Zeiche hat einen **Codepoint** (Zeichencode)
   - txt (unformatiert, ASCII, UTF-8, hoch kompatibel, Stabilität über Jahrzehnte)
   - rtf (proprietär, 1987 von Microsoft eingeführt, Transportiert Inhalte, aber keine zuverlässigen Layout Informationen, enthält eingebettete Informationen zur Formatierung)
 
-- Tabellenformate (xsl, csv, tsv)
-- Bildformate (jpg vs. png, tiff)
+- Tabellenformate (xsl, [csv](https://data.europa.eu/apps/data-visualisation-guide/csv-files), [tsv](https://www.loc.gov/preservation/digital/formats/fdd/fdd000533.shtml))
+- Bildformate (jpg vs. [png](http://www.libpng.org/pub/png/spec/1.2/PNG-Structure.html), tiff)
 
 	- Sonderling: Vektorgrafiken (svg)
 
