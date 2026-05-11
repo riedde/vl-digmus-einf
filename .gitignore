@@ -19,3 +19,4 @@
 pdfs/*.pdf
 vl-digmus-einfuehrung.code-workspace
 .obsidian/plugins/liascript-renderer/node_modules
+*.pdf

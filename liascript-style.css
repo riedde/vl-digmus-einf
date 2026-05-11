@@ -131,3 +131,8 @@ h1.lia-h1 {
 .card__title::before {
   background-color: var(--main-mlu);
 }
+
+.lia-code--inline {
+  border: 1px solid darkgray;
+  color: #009;
+}
