@@ -6,6 +6,7 @@
   --main-mlu-accent: var(--mlu-violet);
   --main-color-text: rgb(var(--color-text));
   --main-color-text-light: color-mix(in srgb, var(--main-color-text) 85%, transparent);
+  --main-color-code: #000099;
 }
 
 body, h1, h2, h3, h4, h5, h6 {
@@ -134,5 +135,5 @@ h1.lia-h1 {
 
 .lia-code--inline {
   border: 1px solid darkgray;
-  color: #000099;
+  color: var(--main-color-code);
 }
