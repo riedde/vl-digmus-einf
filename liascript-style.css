@@ -95,7 +95,7 @@ h1.lia-h1 {
 }
 
 .lia-link, .lia-active {
-  color: var(--main-mlu-accent) !important
+  color: var(--main-mlu-accent) !important;
 }
 
 .lia-pagination__content {
@@ -134,5 +134,5 @@ h1.lia-h1 {
 
 .lia-code--inline {
   border: 1px solid darkgray;
-  color: #009;
+  color: #000099;
 }
