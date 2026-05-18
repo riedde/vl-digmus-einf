@@ -14,6 +14,105 @@ tags:     digitalitaet, formte, zeichencodierung
 # Textcodierung
 
 ![Encoding of a Letter of Joachim Raff](../Bilder/raff-brief-encoding.png "Encoding of a Letter of Joachim Raff")
+
+## Daten
+
+Strukturierte Daten versus unstrukturierte Daten
+
+### unstrukturiert
+> „Penny veranstaltet eine Halloween-Party und lädt die vier Freunde dazu ein. Beim Kostüm-Check stellen sie fest, dass jeder sich als The Flash verkleidet hat und alle wechseln ihre Kostüme: Leonard geht als Frodo, Sheldon als Dopplereffekt, Howard als Robin Hood (alle halten ihn allerdings für Peter Pan) und Rajesh als Thor.“
+>
+> – In: https://de.wikipedia.org/wiki/The_Big_Bang_Theory/Staffel_1
+
+### semistrukturiert
+```xml
+<text>
+   <body>
+      <p><persName>Penny</persName> veranstaltet eine <term>Halloween-Party</term>
+        und lädt <rs>die vier Freunde</rs> dazu ein. Beim <term>Kostüm-Check</term>
+        stellen sie fest, dass jeder sich als <roleName>The Flash</roleName>
+        verkleidet hat und alle wechseln ihre Kostüme: <persName>Leonard</persName>
+        geht als <roleName>Frodo</roleName>, <persName>Sheldon</persName> als
+        <roleName>Dopplereffekt</roleName>, <persName>Howard</persName> als
+        <roleName>Robin Hood</roleName> (alle halten ihn allerdings für
+        <roleName>Peter Pan</roleName>) und <persName>Rajesh</persName> als
+        <roleName>Thor</roleName>.“</p>
+   </body>
+</text>
+```
+
+### strukturiert
+
+{{0}}
+******************************************
+Kostüm-Check
+---
+(Alle haben noch die gleichen Kostüme an.)
+
+```xml
+<event n="1">
+  <head>Kostüm-Check</head>
+  <desc>
+      <listPlace>
+        <place>
+            <placeName>Wohnung</placeName>
+        </place>
+      </listPlace>
+      <listPerson>
+        <person>
+            <persName>Sheldon</persName>
+            <persona>
+              <name type="role">The Flash</name>
+            </persona>
+        </person>
+        <person>
+            <persName>Lenoard</persName>
+            <persona>
+              <name type="role">The Flash</name>
+            </persona>
+        </person>
+      </listPerson>
+  </desc>
+</event>
+```
+
+******************************************
+{{1}}
+******************************************
+---
+
+Erneuter Kostüm-Check
+---
+(Alle haben nun unterschiedliche Kostüme an.)
+
+```xml
+<event n="2">
+  <head>Kostüm-Check</head>
+  <desc>
+      <listPlace>
+        <place>
+            <placeName>Wohnung</placeName>
+        </place>
+      </listPlace>
+      <listPerson>
+        <person>
+            <persName>Sheldon</persName>
+            <persona>
+              <name type="role">Dopplereffekt</name>
+            </persona>
+        </person>
+        <person>
+            <persName>Lenoard</persName>
+            <persona>
+              <name type="role">Frodo</name>
+            </persona>
+        </person>
+      </listPerson>
+  </desc>
+</event>
+```
+******************************************
+
 ## Mark-up and -down
 
 > **Markup** heißt übersetzt soviel wie *Auszeichnung*. Mit einer **Markup-Sprache** können Texte ausgezeichnet werden. Hierbei werden Informationen in den Text eingearbeitet, sodass eine weitere Bedeutungsebene ensteht. Diese Form wird auch **semantisches Markup** genannt.
@@ -243,7 +342,7 @@ Zur Geschichte siehe https://tei-c.org/about/history/
   *	die Dokumentation des Datenschemas / des Standards
   * siehe https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html
 
-<iframe style="width:100%; height: 75%;" src="https://tei-c.org/" title="TEI-Website"></iframe>
+<iframe style="width:100%; min-height: 750px;" src="https://tei-c.org/" title="TEI-Website"></iframe>
 
 ### Warum?
 
