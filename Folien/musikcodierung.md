@@ -8,12 +8,12 @@ import:   ../liascript-config.md
 link:     ../liascript-style.css
 link:     https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap
 font:     Source Sans 3
-tags:     digitalitaet, formte, zeichencodierung
+tags:     digitalitaet, formate, musikcodierung
 -->
 
 # Musikcodierung
 
-![Encoding of a Letter of Joachim Raff](../Bilder/raff-brief-encoding.png "Encoding of a Letter of Joachim Raff")
+![MEI-friend, Startseite](../Bilder/MEI-friend.png)
 
 ## Codierungsformate
 
