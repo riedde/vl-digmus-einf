@@ -59,7 +59,7 @@ h1.lia-h1 {
   width: 70%;
 }
 
-.lia-quote__text {
+.lia-quote__text, .lia-quote .lia-paragraph {
   color: var(--main-color-text) !important;
   text-align: left;
   font-family: 'Source Sans 3', sans-serif !important;
@@ -69,7 +69,7 @@ h1.lia-h1 {
   line-height: 1.25;
 }
 
-.lia-quote__cite {
+.lia-cite, .lia-quote__cite {
   text-align: center;
   margin-top: 2rem;
   font-size: 1.75rem !important;
