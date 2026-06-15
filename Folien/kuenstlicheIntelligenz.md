@@ -13,9 +13,33 @@ tags:     ki, ai, künstliche intelligenz
 
 # Künstliche Intelligenz
 
-!["Digitalisierung"](../Bilder/Canva-AI-Books.jpg)
+!["Layers of Artifical Intelligence"](https://miro.medium.com/v2/resize:fit:720/format:webp/1*f5y9ezDXqQ5uS6QRZPwSuQ.png)
+
+Bild: https://medium.com/@amol-wagh/whats-generative-ai-explore-underlying-layers-of-machine-learning-and-deep-learning-8f99272e0b0d
 
 ## Was ist KI?
+
+{{0}}
+*********************************************
+> **Artificial Intelligence:** It is a technological discipline that involves emulating human behavior by utilizing machines to learn and perform tasks without the need for explicit instructions on the intended output.
+>
+> **Machine learning:** It is a subset of AI that refers to systems that can learn by themselves. ML models take in data and fit the data to an algorithm, to make predictions like how much money a store might make in a given day.
+>
+> **Deep learning:** It is a subset of machine learning that’s based on artificial neural networks. The learning process is deep because the structure of artificial neural networks consists of multiple input, output, and hidden layers. Each layer contains units that transform the input data into information that the next layer can use for a certain predictive task. It operates on massive, large datasets.
+>
+> **Generative AI:** It is a subset of deep learning models that can produce new content based on what is described in the input. The collection of generative AI models that can produce language, code, and images.
+> 
+> – Wagh, Amol: [*What’s Generative AI? Explore Underlying Layers of Machine Learning and Deep Learning*](https://medium.com/@amol-wagh/whats-generative-ai-explore-underlying-layers-of-machine-learning-and-deep-learning-8f99272e0b0d) (25.03.2023), Letzter Zugriff: 15.06.2026
+*********************************************
+
+---
+
+{{1}}
+*********************************************
+> In **Machine learning**, the algorithm requires explicit instruction on how to make an accurate prediction by consuming more information. In contrast, in **Deep learning**, the algorithm can learn how to make an accurate prediction through its own data processing, facilitated by the artificial neural network architecture.
+>
+> – Wagh, Amol: [*What’s Generative AI?*](https://medium.com/@amol-wagh/whats-generative-ai-explore-underlying-layers-of-machine-learning-and-deep-learning-8f99272e0b0d)
+*********************************************
 
 ## KI an der MLU
 
