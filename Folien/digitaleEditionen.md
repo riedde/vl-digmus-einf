@@ -134,6 +134,61 @@ II. Hybrid am Beispiel von Editionen
 - OPERA, https://opera-edition.com/
 - \[…\]
 
+## Prinzipien und Lizenzen
+
+Um die Verwendbarkeit und damit auch die Nachnutzbarkeit zu vereinfachen, wurden verschiedene Prinzipien aufgestellt, die bei der Erarbeitung, Bereitstellung und NAchnutzung unterstützen sollen. Ferner ist es gerade in digitalen Medien hilfreich und geradezu nötig, dass Lizenzen angegeben werden, die explizit darlegen, wie mit einer Ressource umgegangen werden darf.
+
+### FAIR
+Die FAIR-Prinzipien
+---
+
+|      |               |                  | 
+| :--: | :------------ | :--------------- |
+| **F**    | Findable      | auffindbar (aussagekräftige Metadaten)      |
+| **A**    | Accessible    | zugänglich (open access / open source)      |
+| **I**    | Interoperable | weiterverwendbar (Verwendung von Standards und Dokumentation) |
+| **R**    | Reusable      | nachnutzbar (Lizenzen wie [Creative Commons](https://creativecommons.org/cc-licenses/)) |
+
+Vgl. https://forschungsdaten.info/fdm-allgemein/veroeffentlichen-und-archivieren/faire-daten
+
+---
+
+FAIR4RS
+---
+
+Adaption der FAIR-Prinzipien für *Forschungssoftware*: https://blog.zbmed.de/faire-forschungssoftware-fair-for-research-software-principles-fair4rs
+
+---
+
+### CARE
+Die CARE-Prinzipien
+---
+
+|       |                     |                  | 
+| :--: | :------------------- | :--------------- |
+| **C**  | Collective Benefit   | **Kollektiver Nutzen**: Datenökosysteme müssen so gestaltet sein und funktionieren, dass indigene Völker einen Nutzen aus den Daten ziehen können.       |
+| **A**  | Authority to Control | **Autorität zur Kontrolle**: Die Rechte und Interessen indigener Völker an indigenen Daten müssen anerkannt und ihre Befugnis, diese Daten zu kontrollieren, muss gestärkt werden.       |
+| **R**  | Responsibility       | **Verantwortung**: Diejenigen, die mit indigenen Daten arbeiten, sind dafür verantwortlich, mitzuteilen, wie diese Daten verwendet werden, um die Selbstbestimmung der indigenen Völker sowie den kollektiven Nutzen zu unterstützen. |
+| **E**  | Ethics               | **Ethik**: Die Rechte und das Wohlergehen indigener Völker sollten in allen Phasen des Forschungsdatenzyklus und im gesamten Datenökosystem im Vordergrund stehen.      |
+
+---
+
+### CC-Lizenzen
+Creative Commons
+---
+
+| Kürzel   | Bezeichnung   | Erlaubt | Bedingung | Bedeutung   |
+| :--------- | :--------- | :--------- | :--------- | :--------- |
+| [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) | Universell | alles | \[keine!\] | i.e. Public Domain<br/>**Achtung:** Das Urheberrecht ist in Deutschland nicht übertragbar! |
+| [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)     | Namensnennung 4.0 International     | Teilen, Bearbeiten | Namensnennung  | Geeignet für großflächige Verteilung und Nachnutzung|
+| [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de)     | Namensnennung-Nicht kommerziell 4.0 International     | Teilen, Bearbeiten | Namensnennung, keine kommerzielle Nutzung  | Geeignet für großflächige Verteilung und Nachnutzung, aber nur im nichtkommerziellen Bereich|
+| [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.de)     | Namensnennung-Keine Bearbeitung 4.0 International     | Teilen | Namensnennung, keine Bearbeitung  | Geeignet für Verteilung, verhinter jedoch die Nachnutzung |
+| [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)     | Namensnennung-Share Alike 4.0 International     | Teilen, Bearbeiten | Namensnennung, Weitergabe unter gleichen Bedingungen | Geeignet für großflächige Verteilung und Adaption. Ergebnis muss unter gleicher Lizenz veröffentlicht werden. |
+| [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)     | Namensnennung-Nicht kommerziell-Share Alike 4.0 International     | Teilen, Bearbeiten | Namensnennung, keine kommerzielle Nutzung, Weitergabe unter gleichen Bedingungen | Geeignet für großflächige Verteilung und Adaption. Ergebnis muss unter gleicher Lizenz veröffentlicht werden. |
+| [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de)     | Namensnennung-Nicht kommerziell-Keine Bearbeitung 4.0 International     | Teilen | Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung | Geeignet für die unveränderte Verteilung, unter stark eingeschränkten Adaptionsmöglichkeiten. |
+
+
+
 ## Literatur
 - Jannidis, Fotis / Kohle, Hubertus / Rehbein, Malte (Hgg.): *Digital Humanities. Eine Einführung*, Stuttgart 2017 ([PDF-Download](https://link.springer.com/book/10.1007/978-3-476-05446-3))
 - Nassehi, Armin: *Muster. Theorie der digitalen Gesellschaft*, München 2019 (ULB, Signatur: MK 1049-212)
