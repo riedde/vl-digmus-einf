@@ -11,7 +11,7 @@ font:     Source Sans 3
 tags:     edition, analog, digital, hybrid
 -->
 
-# Einführung in die Digitale Musikwissenschaft
+# Digitale Editionen
 
 !["Digitalisierung"](../Bilder/Canva-AI-Books.jpg)
 
