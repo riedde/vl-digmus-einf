@@ -311,7 +311,7 @@ II. Hybrid am Beispiel von Editionen
 > – Ramón Reichert: _Theorien digitaler Medien_, in: _Digital Humanities_, hg. v. Jannidis et al., Stuttgart 2017, S. 19–34, hier S. 19.
 
 
-- Original und Kopie
+### Original und Kopie
 
 > Man kann mich und die in den 1960er Jahren Geborenen vielleicht als die erste digitale Generation beschreiben.18 Dabei war der erste PC eben mehr als bloß eine bessere Schreibmaschine.
 >
