@@ -22,22 +22,17 @@ tags:     digitalitaet, analog, digital, hybrid
 Dozent: Dennis Ried
 ---
 
-* 2010–2014: Germanistik B.A.
+* 2010–2017: Germanistik / Musikwissenschaft
 
   * Karlsruher Institut für Technologie (KIT)
-
-* 2014–2017: Musikwissenschaft B.A./M.A.
-
   * Hochschule für Musik Karlsruhe
 
-* 2019–2021: Wissenschaftlicher Mitarbeiter
-
-  * Max-Reger-Institut Karlsruhe
+* 2019–2021: Max-Reger-Institut Karlsruhe (WiMi)
+  
   * Reger-Werkausgabe (Editor und Herausgeber)
 
-* 2021–2024: Wissenschaftlicher Mitarbeiter
-
-  * Universität Paderborn
+* 2021–2024: Universität Paderborn (WiMi)
+  
   * Hans Werner Henze: Digitale Briefedition
 
 * 2017–2023: Promotionsstudium an der Hochschule für Musik Karlsruhe
@@ -45,11 +40,12 @@ Dozent: Dennis Ried
 * 2025–: Juniorprofessur für Musikwissenschaft mit Schwerpunkt _Musikedition und Digital Humanities_
 
   * Akademieprofessur der Akademie der Wissenschaften und der Literatur Mainz
-  * Mitarbeiter Hallische Händelausgabe (Edition des _Hercules_ HWV 60)
+  * Mitarbeiter Hallische Händelausgabe
 
-**Sprechstunde(n):** 
+**Sprechstunde:** 
 
-- Di, 10–11 Uhr
+- Di, 15:30–16:30 Uhr
+- n. V.
 
 ************************************************
 
@@ -61,46 +57,19 @@ Alle Teilnehmenden
 
 - Name
 - Studienfach
-- "Digital bedeutet für mich... / Digitalität hat für mich zu tun mit..."
+- "Digital bedeutet für mich..." / "Digitalität hat für mich zu tun mit..."
 
 ************************************************
 
 
-                {{2-6}}
+                {{2-3}}
 ************************************************
 Selbsteinschätzung
 ---
-************************************************
 
-                {{3-4}}
-************************************************
+<!-- style="width: 30%" -->
+!["QR-Particify-44488438"](../Bilder/QR-Particify-44488438.png "[https://particify.esalsa.de/p/44488438](https://particify.esalsa.de/p/44488438)")
 
- > Y-Achse: Das Thema interessiert mich
- > X-Achse: Das Thema macht mir Angst
-************************************************
-
-                {{4-5}}
-************************************************
- > Y-Achse: Digitalität ist längst Standard
- > X-Achse: Ich denke viel über das Thema nach
-
-************************************************
-
-                {{5-6}}
-************************************************
-
- > Y-Achse: Ich kenne mich mit digitalen Techniken aus
- > X-Achse: Ich verwende digitale Techniken
-************************************************
-
-                {{6}}
-************************************************
-Glossar
----
-
-- Was sammeln wir?
-- Wie und wo sammeln wir?
-- Wer macht das?
 ************************************************
 
 
@@ -122,19 +91,20 @@ Vorlesungsplan
 <!-- data-type="none" -->
 | #   | Datum    | Thema                                  |
 | --- | -------- | -------------------------------------- |
-| 1   | 14.04.   | Was ist Digitalität?                   |
-| 2   | 21.04.   | Formate                                |
-| 3   | 28.04.   | Digitales Arbeiten                     |
-| *4* | *05.05.* | *entfällt*                             |
-| 5   | 12.05.   | Textcodierung                          |
-| 6   | 19.05.   | Musikcodierung                         |
-| 7   | 26.05.   | Normdaten und Fach-Datenbanken         |
-| 8   | 02.06.   | Ontologien                             |
-| 9   | 09.06.   | Digitale Editionen                     |
-| 10  | 16.06.   | Online-Portale                         |
-| 11  | 23.06.   | Künstliche Intelligenz                 |
-| 12  | 30.06.   | Netzwerkforschung                      |
-| 13  | 07.07.   | Ausblick                               |
+| 1   | *22.10.* | *entfällt*                             |
+| 2   | 29.10.   | Was ist Digitalität?                   |
+| 3   | 05.11.   | Zeichen und Formate                    |
+| 4   | 12.11.   | Digitales Arbeiten                     |
+| 5   | *19.11.* | *entfällt*                             |
+| 6   | 26.11.   | Textcodierung                          |
+| 7   | 03.12.   | Musikcodierung                         |
+| 8   | 10.12.   | Normdaten und Fach-Datenbanken         |
+| 9   | 17.12.   | Ontologien                             |
+| 10  | 07.01.   | Digitale Editionen                     |
+| 11  | 14.01.   | Online-Portale                         |
+| 12  | 21.01.   | Künstliche Intelligenz                 |
+| 13  | 28.01.   | Künstliche Intelligenz                 |
+| 14  | 04.02.   | Netzwerkforschung                      |
 
 ************************************************
 
