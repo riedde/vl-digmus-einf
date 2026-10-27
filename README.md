@@ -1,7 +1,7 @@
 # Einführung in die digitale Musikwissenschaft
 
 Vorlesung im FSQ-Modul "Einführung in das wissenschaftliche Arbeiten"
-Termin: dienstags, 8:15–9:45 Uhr
+Termin: donnerstags, 10:15–11:45 Uhr
 # Vorlesungsplan
 
 | #   | Datum    | Thema                                  |
@@ -20,6 +20,3 @@ Termin: dienstags, 8:15–9:45 Uhr
 | 12  | 21.01.   | [Künstliche Intelligenz](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-digmus-einf/refs/heads/production/Folien/kuenstlicheIntelligenz.md) |
 | 13  | 28.01.   | [Künstliche Intelligenz](https://liascript.github.io/course/?https://raw.githubusercontent.com/riedde/vl-digmus-einf/refs/heads/production/Folien/kuenstlicheIntelligenz.md) |
 | 14  | 04.02.   | Netzwerkforschung                  |
-
-## Daueraufgaben
-Wir fertigen zusammen ein Glossar an.
