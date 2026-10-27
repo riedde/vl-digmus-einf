@@ -62,7 +62,7 @@ Bild: https://medium.com/@amol-wagh/whats-generative-ai-explore-underlying-layer
 Tools
 ---
 
-- Überblick und Verleich: [Arena AI](https://arena.ai/leaderboard/agent)
+- Überblick und Verleich: [RISE HUMANITIES DATA BENCHMARK](https://rise-services.rise.unibas.ch/benchmarks/p/leaderboard/) (Basel, CH), [Arena AI](https://arena.ai/leaderboard/agent)
 - Für Chatexperimente: [Blablador](https://strube1.pages.jsc.fz-juelich.de/2024-02-talk-lips-blablador/#/title-slide) (Forschungszentrum Jülich, Deutschland)
 - Für Bilder: [Canva](https://www.canva.com/) (kommerziell, Sydney Australien)
 - Copilot (Github, San Francisco USA, seit 2018 Teil von Microsoft)
